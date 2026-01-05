@@ -133,7 +133,9 @@ The system follows a **three-layered architecture**:
 
 5. To use a *fine tuned LLM(trained on this specific data) or Use RAG-System* for more better explainability and results*
 
-6. *Data Drift: The ML model trained on 2008 data (CEAS) will struggle with 2026 phishing tactics unless updated.*
+6. **Data Drift**
+   
+    The ML model trained on 2008 data (CEAS) will struggle with 2026 phishing tactics unless updated.*
 	so instead of old(2008) data if we use latest data will be muct more better choice
 
 ---
