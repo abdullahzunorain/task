@@ -1,5 +1,5 @@
 
-# Phishing Email Detection and Triage System
+# Phishing Email Detection using ML + XAI(LLM)
 
 ## Project Overview
 
