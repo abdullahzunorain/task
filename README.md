@@ -127,17 +127,14 @@ The system follows a **three-layered architecture**:
 
    * Integrate a **human-in-the-loop feedback mechanism** to continuously improve the model on borderline cases.
 
-3. **Threat Intelligence Integration**
+3. **Threat Intelligence Integration(real-time)**
 
-   * Leverage **external phishing feeds and URL reputation** for real-time detection of new threats.
+4.  * Use **external phishing feeds and URL reputation** for real-time detection of new threats.
 
-4. **User Personalization**
+5. To use a *fine tuned LLM(trained on this specific data) or Use RAG-System* for more better explainability and results*
 
-   * Adjust scoring thresholds and guidance based on **user role or department** (e.g., Finance vs. Engineering).
-
-5. **Monitoring & Logging**
-
-   * Track **LLM escalations, false positives/negatives, and user feedback** to continuously refine model and system behavior.
+6. *Data Drift: The ML model trained on 2008 data (CEAS) will struggle with 2026 phishing tactics unless updated.*
+	so instead of old(2008) data if we use latest data will be muct more better choice
 
 ---
 
