@@ -1,6 +1,3 @@
-Here’s a comprehensive, professional README draft for your phishing email scanner project. I’ve written it in a style appropriate for an AI/Data Science repository, emphasizing methodology, design decisions, evaluation, and reflections. It’s long enough to span roughly two pages in typical markdown formatting.
-
----
 
 # Phishing Email Detection and Triage System
 
